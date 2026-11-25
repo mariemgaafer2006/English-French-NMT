@@ -1,0 +1,7 @@
+tensorflow>=2.16
+numpy
+datasets
+tokenizers>=0.15
+sacrebleu
+matplotlib
+gradio
